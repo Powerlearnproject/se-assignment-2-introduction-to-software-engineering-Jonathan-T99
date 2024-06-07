@@ -10,6 +10,7 @@ Define Software Engineering: is a systematic approach to the design, development
 
 What is software engineering, and how does it differ from traditional programming?
 .Software engineering is a systematic approach to the design, development, and maintenance of software systems.
+.It is a discipline that combines computer science, mathematics, and engineering principles to develop software systems that meet specific requirements and are reliable, efficient, and easy to maintain.
 
 .It encompasses various principles, methodologies, and tools aimed at producing high-quality software that meets user requirements, is reliable, scalable, and maintainable but traditional programming, which often focuses solely on coding, software engineering emphasizes a holistic view of the software development process, including requirements analysis, design, implementation, testing, deployment, and maintenance.
 
